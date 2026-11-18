@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "team": "gmkovalikadmin",
+  "password": {
+    "algorithm": "PBKDF2-SHA256",
+    "iterations": 100000,
+    "salt": "BJqYOZDhXynMsSHEn72_-w",
+    "verifier": "i_WpkGE43xsHrJu6SLCmI0sk7sQHwjMBoGp2lUviyLM"
+  },
+  "createdAt": "2026-11-18T03:56:09.741Z"
+}
