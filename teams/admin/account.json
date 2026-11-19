@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "team": "admin",
+  "password": {
+    "algorithm": "PBKDF2-SHA256",
+    "iterations": 100000,
+    "salt": "4vI27wwb8LAmF8X3d7JolQ",
+    "verifier": "lYb5CT6YJMJHFvBfNWQjwRmpqVkFekpRPE5UxDFMo1Q"
+  },
+  "createdAt": "2026-11-19T03:38:15.780Z"
+}
